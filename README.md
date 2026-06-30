@@ -61,7 +61,7 @@ Pino 3 (dir.) → GND
 ## 🖼️ Esquemático
 
 ![Simulação](circuit_images/image_simulador.png)
-![Circuito Real](circuit_images/Circuito_real.jpg)
+![Circuito Real](circuit_images/Circuito_real.jpeg)
 
 ---
 
